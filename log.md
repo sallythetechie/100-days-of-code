@@ -7,7 +7,7 @@
 
 **Thoughts:** Struggled with integrating slack with github but finally managed. Also struggled with hosting on gihub pages
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work
 
 ### Day 2: October 19, 2019
 
@@ -16,7 +16,7 @@
 
 **Thoughts**: Difficulties with aligning card...Need to work on this
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 
